@@ -1,7 +1,8 @@
 a=4
-if a<0:
-    print('A is a positive number')
+b=2
+if a>0:
+    print('A is greater than b')
+elif a==b:
+     print('a and b are equal')
 else:
-    print('A is a negative number')
-elif:
-    print('A is equal 0')
+  print('b is greater than a')

@@ -1,6 +1,10 @@
-i = 1
-while i < 60:
-    print(i)
-    if  i == 6:
-        break
-    i +=1
+print("learning")
+x=20
+y=3
+print(x+y)
+print(x*y)
+print(x-y)
+print(x / y)
+print(x % y)
+print(x**y)
+print(x // y)
